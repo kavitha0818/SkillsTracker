@@ -1,0 +1,55 @@
+# Ignore Visual Studio files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.sln.docstates
+
+# Ignore build and bin folders
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
+
+# Ignore user-specific files
+*.suo
+*.user
+*.userprefs
+
+# Ignore build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]og[sS]/
+tst/
+
+# Ignore Resharper and Rider files
+_resharper/
+resharper/
+*.DotSettings.user
+*.DotSettings
+
+# Ignore Visual Studio Code files
+.vscode/
+
+# Ignore Unity generated files
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Ll]ibrary/
+
+# Ignore Rider files
+.idea/
+
+# Ignore Windows folder attributes
+Desktop.ini
+thumbs.db
